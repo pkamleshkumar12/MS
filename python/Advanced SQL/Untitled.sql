@@ -1,0 +1,1 @@
+-- INSERT INTO `tenet-db`.`trn_profile` (`id`, `create_time`, `created_by_user`, `version_number`, `contact_number`, `date_of_birth`, `full_name`, `password`, `username`, `role_id`) VALUES ('1', '2021-07-11 12:42:02', 'SYSTEM', '1', '1234561234', '2021-07-11', 'Kamlesh test user', 'password123', 'test@gmail.com', '1');
