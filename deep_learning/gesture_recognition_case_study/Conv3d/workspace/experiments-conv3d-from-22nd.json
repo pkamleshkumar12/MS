@@ -1,0 +1,25 @@
+{
+    "parameters": [
+        {
+            "title": "Experiment - 22",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.1",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "50"
+        },
+        {
+            "title": "Experiment - 23",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.15",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "50"
+        },
+        {
+            "title": "Experiment - 24",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.20",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "50"
+        }
+    ]
+}

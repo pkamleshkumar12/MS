@@ -1,0 +1,88 @@
+{
+    "parameters": [
+        {
+            "title": "Experiment - 13",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.1",
+            "optimizer": "Adam",
+            "numberOfEpochs": "20"
+        },
+        {
+            "title": "Experiment - 14",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.15",
+            "optimizer": "Adam",
+            "numberOfEpochs": "20"
+        },
+        {
+            "title": "Experiment - 15",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.20",
+            "optimizer": "Adam",
+            "numberOfEpochs": "20"
+        },
+        {
+            "title": "Experiment - 16",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.1",
+            "optimizer": "Adam",
+            "numberOfEpochs": "50"
+        },
+        {
+            "title": "Experiment - 17",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.15",
+            "optimizer": "Adam",
+            "numberOfEpochs": "50"
+        },
+        {
+            "title": "Experiment - 18",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.20",
+            "optimizer": "Adam",
+            "numberOfEpochs": "50"
+        },
+        {
+            "title": "Experiment - 19",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.1",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "20"
+        },
+        {
+            "title": "Experiment - 20",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.15",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "20"
+        },
+        {
+            "title": "Experiment - 21",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.20",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "20"
+        },
+        {
+            "title": "Experiment - 22",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.1",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "50"
+        },
+        {
+            "title": "Experiment - 23",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.15",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "50"
+        },
+        {
+            "title": "Experiment - 24",
+            "minimumLearningRate": "0.0001",
+            "learningRateFactor": "0.20",
+            "optimizer": "Nadam",
+            "numberOfEpochs": "50"
+        }
+    ]
+}
